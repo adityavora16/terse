@@ -25,8 +25,10 @@ Inside a session, `/plugin marketplace add adityavora16/claude-plugins` and
 
 ## Route B: copy the skill folder
 
+Download the repository (the green **Code** button, then **Download ZIP**) and unzip it. From the
+folder that holds the unzipped `terse` folder:
+
 ```bash
-git clone https://github.com/adityavora16/terse.git
 mkdir -p ~/.claude/skills && cp -R terse/skills/* ~/.claude/skills/
 ```
 
@@ -35,8 +37,9 @@ that project's `.claude/skills/` folder instead. To remove it, delete `~/.claude
 
 ## Route C: try it for one session
 
+With the unzipped `terse` folder from Route B:
+
 ```bash
-git clone https://github.com/adityavora16/terse.git
 claude --plugin-dir ./terse
 ```
 

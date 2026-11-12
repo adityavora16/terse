@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.1, 12 November 2026
+
+- Plugin icon added (`.claude-plugin/icon.png`).
+- INSTALL.md: the copy-by-hand routes start from a downloaded ZIP instead of `git clone`.
+
 ## v1.0, 23 October 2026
 
 First release.

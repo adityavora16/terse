@@ -1,6 +1,6 @@
 {
   "name": "terse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shorter Claude answers: the answer first, no preamble, recap or closing offer, and the AI writing tells stripped from the words that stay.",
   "author": { "name": "Aditya Vora", "url": "https://github.com/adityavora16" },
   "homepage": "https://github.com/adityavora16/terse",
