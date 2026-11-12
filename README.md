@@ -86,3 +86,9 @@ writing tells in the second half of `skills/terse/SKILL.md` are adapted from Wik
 AI writing" page and stay under CC BY-SA 4.0. Details in [`CREDITS.md`](CREDITS.md).
 
 Terse is provided as is. Claude's replies vary; you are responsible for what you publish or act on.
+
+## Privacy
+
+Terse is instructions only: one skill file and its reference list. It has no script, no MCP server
+and no network access. It collects, stores and sends no data, personal or otherwise; your
+conversation stays between you and Claude, under your own Claude plan's terms.
